@@ -6,7 +6,7 @@ import {getFirestore } from 'firebase/firestore'
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAjX5MJ6dMJBCxV19CPhopGfeLhPwLPjds",
+  apiKey: "",
   authDomain: "dixitcoder-tools-ai.firebaseapp.com",
   projectId: "dixitcoder-tools-ai",
   storageBucket: "dixitcoder-tools-ai.appspot.com",
