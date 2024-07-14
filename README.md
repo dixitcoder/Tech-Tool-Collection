@@ -15,10 +15,11 @@
 
 ## Notable Projects
 
-[![SatIntel](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=SatIntel&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/Ai-Free-Tools-List)
-[![DroneXtract](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=DroneXtract&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/windows-clone/tree/main)
-[![WiCon Kit](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=ESP8266-WiCon-Kit&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/dental-clinic-management-system-)
-[![netspionage](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=netspionage&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/WebNmap)
+[![AI-Free-Tools-List](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=Ai-Free-Tools-List&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/Ai-Free-Tools-List)
+[![Windows Clone](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=windows-clone&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/windows-clone/tree/main)
+[![Dental Clinic Management System](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=dental-clinic-management-system-&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/dental-clinic-management-system-)
+[![WebNmap](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=WebNmap&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/WebNmap)
+
 
 ---
 
